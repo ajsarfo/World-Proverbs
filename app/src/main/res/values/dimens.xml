@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_card_margin_left_right">8dp</dimen>
+
+    <dimen name="slide_card_height">220dp</dimen>
+    <dimen name="slide_card_elevation">5dp</dimen>
+
+    <dimen name="main_card_height">128dp</dimen>
+    <dimen name="main_card_width">140dp</dimen>
+
+    <dimen name="list_card_layout_height">440dp</dimen>
+    <dimen name="main_bottom_card_height">300dp</dimen>
+
+    <dimen name="card_corner_radius">10dp</dimen>
+    <dimen name="main_card_corner_radius">14dp</dimen>
+
+    <dimen name="bottom_layout_item_size">21dp</dimen>
+    <dimen name="adjusted_bottom_layout_item_size">36dp</dimen>
+
+    <dimen name="bottom_quote_layout_card_size">44dp</dimen>
+    <dimen name="bottom_layout_height">54dp</dimen>
+
+    <dimen name="bottom_quote_layout_item_card_size">54dp</dimen>
+    <dimen name="bottom_quote_layout_item_size">28dp</dimen>
+
+    <dimen name="preview_card_radius">8dp</dimen>
+    <dimen name="preview_card_elevation">2dp</dimen>
+    <dimen name="preview_image_card_size">68dp</dimen>
+    <dimen name="preview_image_icon_size">26dp</dimen>
+    <dimen name="preview_image_text_size">14sp</dimen>
+    <dimen name="preview_card_space">10dp</dimen>
+    <dimen name="preview_card_text_margin_bottom">4dp</dimen>
+</resources>

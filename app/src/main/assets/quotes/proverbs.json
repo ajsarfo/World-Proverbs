@@ -1,0 +1,2327 @@
+[
+{
+  "title": "African",
+  "quotes": [
+    {
+      "message": "Wisdom is wealth.",
+      "name": "Swahili"
+    },
+    {
+      "message": "Wisdom is like a baobab tree; no one individual can embrace it.",
+      "name": "Akan proverb"
+    },
+    {
+      "message": "The fool speaks, the wise man listens.",
+      "name": "Ethiopian proverb"
+    },
+    {
+      "message": "Wisdom does not come overnight.",
+      "name": "Cameroon proverb"
+    },
+    {
+      "message": "Wisdom is like fire. People take it from others.",
+      "name": "Hema (DRC) proverb"
+    },
+    {
+      "message": "Only a wise person can solve a difficult problem.",
+      "name": "Akan proverb"
+    },
+    {
+      "message": "Knowledge without wisdom is like water in the sand.",
+      "name": "Guinean proverb"
+    },
+    {
+      "message": "In the moment of crisis, the wise build bridges, and the foolish build dams.",
+      "name": "Nigerian proverb"
+    },
+    {
+      "message": "If you are filled with pride, then you will have no room for wisdom.",
+      "name": "African proverb"
+    },
+    {
+      "message": "A wise person will always find a way.",
+      "name": "Tanzanian proverb"
+    },
+    {
+      "message": "Nobody is born wise.",
+      "name": "African proverb"
+    },
+    {
+      "message": " A man who uses force is afraid of reasoning.",
+      "name": "Kenyan proverb"
+    },
+    {
+      "message": "Wisdom is not like money to be tied up and hidden.",
+      "name": "Akan proverb"
+    },
+    {
+      "message": " Learning expands great souls.",
+      "name": "Namibian proverb"
+    },
+    {
+      "message": "To get lost is to learn the way.",
+      "name": "African proverb"
+    },
+    {
+      "message": "By crawling a child learns to stand.",
+      "name": "African proverb"
+    },
+    {
+      "message": "If you close your eyes to facts, you will learn through accidents.",
+      "name": "African proverb"
+    },
+    {
+      "message": " who learns, teaches.",
+      "name": "Ethiopian proverb"
+    },
+    {
+      "message": "Wealth, if you use it, comes to an end; learning, if you use it, increases.",
+      "name": "Swahili proverb"
+    },
+    {
+      "message": "By trying often, the monkey learns to jump from the tree.",
+      "name": "Buganda proverb"
+    },
+    {
+      "message": "You always learn a lot more when you lose than when you win.",
+      "name": "African proverb"
+    },
+    {
+      "message": "You learn how to cut down trees by cutting them down.",
+      "name": "Bateke proverb"
+    },
+    {
+      "message": "The wise create proverbs for fools to learn, not to repeat.",
+      "name": "African proverb"
+    },
+    {
+      "message": "What you help a child to love can be more important than what you help him to learn.",
+      "name": "African proverb"
+    },
+    {
+      "message": "By the time the fool has learned the game, the players have dispersed.",
+      "name": "Ashanti proverb"
+    },
+    {
+      "message": "One who causes others misfortune also teaches them wisdom.",
+      "name": "African proverb"
+    },
+    {
+      "message": "The fool speaks, the wise man listens.",
+      "name": "Ethiopian proverb"
+    },
+    {
+      "message": "You do not teach the paths of the forest to an old gorilla.",
+      "name": "Congolese proverb"
+    },
+    {
+      "message": "What you learn is what you die with.",
+      "name": "African proverb"
+    },
+    {
+      "message": "Instruction in youth is like engraving in stone.",
+      "name": "Moroccan Proverb"
+    },
+    {
+      "message": "When you follow in the path of your father, you learn to walk like him.",
+      "name": "Ashanti Proverb"
+    },
+    {
+      "message": "Ears that do not listen to advice, accompany the head when it is chopped off.",
+      "name": "African Proverb"
+    },
+    {
+      "message": "Advice is a stranger; if he’s welcome he stays for the night; if not, he leaves the same day.",
+      "name": " Malagasy Proverb"
+    },
+    {
+      "message": "Traveling is learning.",
+      "name": "Kenyan Proverb"
+    },
+    {
+      "message": " Where there are experts there will be no lack of learners.",
+      "name": "Swahili Proverb"
+    },
+    {
+      "message": " Peace is costly but it is worth the expense.",
+      "name": "Kenyan proverb"
+    },
+    {
+      "message": "War has no eyes.",
+      "name": "Swahili Proverb"
+    },
+    {
+      "message": "When a king has good counselors, his reign is peaceful.",
+      "name": "Ashanti proverb"
+    },
+    {
+      "message": "Peace does not make a good ruler.",
+      "name": "Botswana proverb"
+    },
+    {
+      "message": "A fight between grasshoppers is a joy to the crow.",
+      "name": "Lesotho Proverb"
+    },
+    {
+      "message": "Milk and honey have different colors, but they share the same house peacefully.",
+      "name": "African proverb"
+    },
+    {
+      "message": "If you can’t resolve your problems in peace, you can’t solve war.",
+      "name": "Somalian proverb"
+    },
+    {
+      "message": "When there is peace in the country, the chief does not carry a shield.",
+      "name": "Ugandan proverb"
+    },
+    {
+      "message": "When two elephants fight, it is the grass that gets trampled.",
+      "name": "Swahili saying"
+    },
+    {
+      "message": "Speak softly and carry a big stick; you will go far.",
+      "name": "West African proverb"
+    },
+    {
+      "message": "He who thinks he is leading and has no one following him is only taking a walk.",
+      "name": "Malawian proverb"
+    },
+    {
+      "message": "An army of sheep led by a lion can defeat an army of lions led by a sheep.",
+      "name": "Ghanaian proverb"
+    },
+    {
+      "message": "He who is destined for power does not have to fight for it.",
+      "name": "Ugandan proverb"
+    },
+    {
+      "message": "Do not forget what is to be a sailor because of being a captain yourself.",
+      "name": "Tanzanian Proverb"
+    },
+    {
+      "message": "Without a leader, black ants are confused.",
+      "name": "Ugandan proverb"
+    },
+    {
+      "message": "He who refuses to obey cannot command.",
+      "name": "Kenyan proverb"
+    },
+    {
+      "message": "He who fears the sun will not become chief.",
+      "name": "Ugandan proverb"
+    },
+    {
+      "message": "A large chair does not make a king.",
+      "name": "Sudanese proverb"
+    },
+    {
+      "message": "Because he lost his reputation, he lost a kingdom.",
+      "name": "Ethiopian proverb"
+    },
+    {
+      "message": "Where a woman rules, streams run uphill.",
+      "name": "Ethiopian proverb"
+    },
+    {
+      "message": "A leader who does not take advice is not a leader.",
+      "name": "Kenyan proverb"
+    },
+    {
+      "message": "If the cockroach wants to rule over the chicken, then it must hire the fox as a body-guard.",
+      "name": "Sierra Leone proverb"
+    },
+    {
+      "message": "Unity is strength, the division is weakness.",
+      "name": " Swahili proverb"
+    },
+    {
+      "message": "Sticks in a bundle are unbreakable.",
+      "name": "Bondei proverb"
+    },
+    {
+      "message": "It takes a village to raise a child.",
+      "name": "African proverb"
+    },
+    {
+      "message": "Cross the river in a crowd and the crocodile won’t eat you.",
+      "name": "African proverb"
+    },
+    {
+      "message": " Many hands make light work.",
+      "name": "Haya (Tanzania) proverb"
+    },
+    {
+      "message": "Where there are many, nothing goes wrong.",
+      "name": "Swahili proverb"
+    },
+    {
+      "message": "Two ants do not fail to pull one grasshopper.",
+      "name": "Tanzanian proverb"
+    },
+    {
+      "message": "A single bracelet does not jingle.",
+      "name": "Congolese proverb"
+    },
+    {
+      "message": "A single stick may smoke, but it will not burn.",
+      "name": "African proverb"
+    },
+    {
+      "message": "If you want to go quickly, go alone. If you want to go far, go together.",
+      "name": "African proverb"
+    },
+    {
+      "message": "A family is like a forest when you are outside it is dense, when you are inside you see that each tree has its place.",
+      "name": "African proverb"
+    },
+    {
+      "message": "A united family eats from the same plate.",
+      "name": "Baganda proverb"
+    },
+    {
+      "message": " A family tie is like a tree, it can bend but it cannot break.",
+      "name": "African proverb"
+    },
+    {
+      "message": "If I am in harmony with my family, that’s a success.",
+      "name": "African proverb"
+    },
+    {
+      "message": " Brothers love each other when they are equally rich.",
+      "name": "African proverb"
+    },
+    {
+      "message": "Dine with a stranger but save your love for your family.",
+      "name": "Ethiopian proverb"
+    },
+    {
+      "message": " The old woman looks after the child to grow its teeth and the young one, in turn, looks after the old woman when she loses her teeth.",
+      "name": "Akan (Ghana, Ivory Coast) proverb"
+    },
+    {
+      "message": "There is no fool who is disowned by his family.",
+      "name": "African proverb"
+    },
+    {
+      "message": "Home affairs are not talked about in the public square.",
+      "name": "African proverb"
+    },
+    {
+      "message": "If relatives help each other, what evil can hurt them?.",
+      "name": "African proverb"
+    },
+    {
+      "message": "When brothers fight to the death, a stranger inherits their father’s estate.",
+      "name": "Ibo proverb"
+    },
+    {
+      "message": "He who earns calamity eats it with his family.",
+      "name": "African proverb"
+    },
+    {
+      "message": "Children are the reward of life.",
+      "name": "African proverb"
+    },
+    {
+      "message": "To be without a friend is to be poor indeed.",
+      "name": "Tanzanian proverb"
+    },
+    {
+      "message": " Hold a true friend with both hands.",
+      "name": "African proverb"
+    },
+    {
+      "message": "The friends of our friends are our friends.",
+      "name": "Congolese proverb"
+    },
+    {
+      "message": "A friend is someone you share the path with.",
+      "name": "African proverb"
+    },
+    {
+      "message": "Show me your friend and I will show you your character.",
+      "name": "African proverb"
+    },
+    {
+      "message": "Return to old watering holes for more than water; friends and dreams are there to meet you.",
+      "name": "African proverb"
+    },
+    {
+      "message": "Between true friends, even water drunk together is sweet enough.",
+      "name": "African proverb"
+    },
+    {
+      "message": "A small house will hold a hundred friends.",
+      "name": "African proverb"
+    },
+    {
+      "message": "A close friend can become a close enemy.",
+      "name": "African proverb"
+    },
+    {
+      "message": ". Bad friends will prevent you from having good friends.",
+      "name": "Gabon proverb"
+    },
+    {
+      "message": "Make some money but don’t let money make you.",
+      "name": "Tanzania proverb"
+    },
+    {
+      "message": " It is no shame at all to work for money.",
+      "name": "African proverb"
+    },
+    {
+      "message": " He who loves money must labor.",
+      "name": " Mauritania proverb"
+    },
+    {
+      "message": "By labor comes wealth.",
+      "name": "Yoruba proverb"
+    },
+    {
+      "message": " Poverty is slavery.",
+      "name": " Somalia proverb"
+    },
+    {
+      "message": " One cannot both feast and become rich.",
+      "name": "AShanti proverb"
+    },
+    {
+      "message": "One cannot count on riches.",
+      "name": "Somalia proverb"
+    },
+    {
+      "message": " Money is sharper than the sword.",
+      "name": "Ashanti proverb"
+    },
+    {
+      "message": "A man’s wealth may be superior to him.",
+      "name": "Cameroon proverb"
+    },
+    {
+      "message": "The rich are always complaining.",
+      "name": "Zulu proverb"
+    },
+    {
+      "message": "The wealth which enslaves the owner isn’t wealth.",
+      "name": "Yoruba proverb"
+    },
+    {
+      "message": "The poor man and the rich man do not play together.",
+      "name": "Ashanti proverb"
+    },
+    {
+      "message": "Lack of money is a lack of friends; if you have money at your disposal, every dog and goat will claim to be related to you.",
+      "name": "Yoruba proverb"
+    },
+    {
+      "message": "With wealth one wins a woman.",
+      "name": "Uganda proverb"
+    },
+    {
+      "message": "Dogs do not actually prefer bones to meat; it is just that no one ever gives them meat.",
+      "name": "Akan proverb"
+    },
+    {
+      "message": "A real family eats the same cornmeal.",
+      "name": "Bayombe proverb"
+    },
+    {
+      "message": "Money can’t talk, yet it can make lies look true.",
+      "name": "South African proverb"
+    },
+    {
+      "message": "If your cornfield is far from your house, the birds will eat your corn.",
+      "name": "Congo proverb"
+    },
+    {
+      "message": "You become wise when you begin to run out of money.",
+      "name": "Ghana proverb"
+    }
+  ]
+},
+{
+  "title" : "Asian",
+  "quotes" : [
+    {
+      "message" :"If heaven made him, earth can find some use for him.",
+      "name" : "Hong Kong Proverb"
+    },
+    {
+      "message" :"If you are patient in one moment of anger, you will escape a hundred days of sorrow.",
+      "name" : "Hong Kong Proverb"
+    },
+    {
+      "message" :"He who strikes the first blow admits he's lost the argument.",
+      "name" : "Hong Kong Proverb"
+    },
+    {
+      "message" :"Not only can water float a boat, it can sink it also.",
+      "name" : "Hong Kong Proverb"
+    },
+    {
+      "message" :"If you don't want anyone to know, don't do it.",
+      "name" : "Hong Kong Proverb"
+    },
+    {
+      "message" :"Teachers open the door. You enter by yourself.",
+      "name" : "Hong Kong Proverb"
+    },
+    {
+      "message" :"He who is drowned is not troubled by the rain.",
+      "name" : "Hong Kong Proverb"
+    },
+    {
+      "message" :"When the tree falls, the monkeys scatter.",
+      "name" : "Hong Kong Proverb"
+    },
+    {
+      "message" :"Do not fear going forward slowly; fear only to stand still.",
+      "name" : "Hong Kong Proverb"
+    },
+    {
+      "message" :"If heaven made him, earth can find some use for him.",
+      "name" : "Hong Kong Proverb"
+    },
+    {
+      "message" :"If you plant grass, you won't get rice.",
+      "name" : "Singapore Proverb"
+    },
+    {
+      "message" :" Those who speak aloud are boastful. Those who speak softly are unsure. Those who don’t speak are dangerous",
+      "name" : "Singaporean Proverb"
+    },
+    {
+      "message" :"Keep a snake, and the snake will eat your chicken.",
+      "name" : "Singaporean Proverb"
+    },
+    {
+      "message" :"A given excuse that was not asked for implies guilt..",
+      "name" : "Singaporean Proverb"
+    },
+    {
+      "message" :"Not all stones are blessed to become diamonds.",
+      "name" : "Singaporean Proverb"
+    },
+    {
+      "message" :"Better poverty before wealth than poverty after wealth.",
+      "name" : "Singaporean Proverb"
+    },
+    {
+      "message" :"You don't need to teach a young crocodile to swim.",
+      "name" : "Singaporean Proverb"
+    },
+    {
+      "message" :"On a big tree, there are dead branches; in a big clan, there are beggars.",
+      "name" : "Singaporean Proverb"
+    },
+    {
+      "message" :"It takes sweat to work on things, but it only takes saliva to criticize things.",
+      "name" : "Taiwanese Proverb"
+    },
+    {
+      "message" :" Man who wants pretty nurse, must be patient.",
+      "name" : "Taiwanese Proverb"
+    },
+    {
+      "message" :" A fool judges people by the presents they give him.",
+      "name" : "Taiwanese Proverb"
+    },
+    {
+      "message" :"As long as you have the forest, you don't have to worry about firewood.",
+      "name" : "Taiwanese Proverb"
+    },
+    {
+      "message" :"Man who lives in glass house should change clothes in basement.",
+      "name" : "Taiwanese Proverb"
+    },
+    {
+      "message" :"Be not afraid of growing slowly, be afraid only of standing still.",
+      "name" : "Taiwanese Proverb"
+    },
+    {
+      "message" :" A bird does not sing because it has an answer. It sings because it has a song.",
+      "name" : "Taiwanese Proverb"
+    },
+    {
+      "message" :"Something that looks good does not necessarily taste good.",
+      "name" : "Taiwanese Proverb"
+    },
+    {
+      "message" :"He who asks is a fool for five minutes, but he who does not ask remains a fool forever.",
+      "name" : "Taiwanese Proverb"
+    },
+    {
+      "message" :" Dawn will come with or without the cock.",
+      "name" : "Mongolian Proverb"
+    },
+    {
+      "message" :"Rich is he who has no debts, fortunate he who lives without handicap.",
+      "name" : "Mongolian Proverb"
+    },
+    {
+      "message" :"Suffer in liberty than delight in captivity.",
+      "name" : "Mongolian Proverb"
+    },
+    {
+      "message" :"There are men who walk through the woods and see no trees.",
+      "name" : "Mongolian Proverb"
+    },
+    {
+      "message" :"If you fear it, do not do it. If you do it, do not fear it.",
+      "name" : "Mongolian Proverb"
+    },
+    {
+      "message" :"If you are going to steal bells plug your ears.",
+      "name" : "Mongolian Proverb"
+    },
+    {
+      "message" :"The distance between heaven and earth is no greater than one thought.",
+      "name" : "Mongolian Proverb"
+    },
+    {
+      "message" :" Be the head of a wasp than the tail of a lion.",
+      "name" : "Mongolian Proverb"
+    },
+    {
+      "message" :"The more you listen the more you give yourself room for doubt.",
+      "name" : "Mongolian Proverb"
+    },
+    {
+      "message" :"Each generation will reap what the former generation has sown.",
+      "name" : "Macaunese Proverb"
+    },
+    {
+      "message" :"Do not confine your children to your own learning, for they were born in another time.",
+      "name" : "Macaunese Proverb"
+    },
+    {
+      "message" :"There are two perfectly good men, one dead, and the other unborn.",
+      "name" : "Macaunese Proverb"
+    },
+    {
+      "message" :"With true friends... even water drunk together is sweet enough.",
+      "name" : "Macaunese Proverb"
+    },
+    {
+      "message" :"If you suspect a man, don't employ him, and if you employ him, don't suspect him.",
+      "name" : "Macaunese Proverb"
+    },
+    {
+      "message" :"A gem cannot be polished without friction, nor a man perfected without trials.",
+      "name" : "Macaunese Proverb"
+    },
+    {
+      "message" :"Deep doubts, deep wisdom; small doubts, little wisdom.",
+      "name" : "Macaunese Proverb"
+    },
+    {
+      "message" :"Clear conscience never fears midnight knocking.",
+      "name" : "Macaunese Proverb"
+    },
+    {
+      "message" :"A wise man makes his own decisions, an ignorant man follows the public opinion.",
+      "name" : "Macaunese Proverb"
+    },
+    {
+      "message" :"A coconut shell full of water is a sea to an ant.",
+      "name" : "Indian Proverb"
+    },
+    {
+      "message" :"when anger comes, does wisdom go.",
+      "name" : "Indian Proverb"
+    },
+    {
+      "message" :"What does a monkey know of the taste of ginger?.",
+      "name" : "Indian Proverb"
+    },
+    {
+      "message" :"You have to believe in gods to see them.",
+      "name" : "Indian Proverb"
+    },
+    {
+      "message" :"When a woman laughs an experienced man will know how much it will cost him.",
+      "name" : "Indian Proverb"
+    },
+    {
+      "message" :"Call on God, but row away from the rocks.",
+      "name" : "Indian Proverb"
+    },
+    {
+      "message" :"In love beggar and king are equal.",
+      "name" : "Indian Proverb"
+    },
+    {
+      "message" :"The ambitious one makes friends with the elephant, then tramples upon the ant.",
+      "name" : "Indian Proverb"
+    },
+    {
+      "message" :"The enemy's own punishment is his envy.",
+      "name" : "Indian Proverb"
+    },
+    {
+      "message" :"Follow the river and you will get to the sea.",
+      "name" : "Indian Proverb"
+    },
+    {
+      "message" :"Due to the presence of fools wise people stand out.",
+      "name" : "Japanese Proverb"
+    },
+    {
+      "message" :" A bad wife spells a hundred years of bad harvest. ",
+      "name" : "Japanese Proverb"
+    },
+    {
+      "message" :" When the character of a man is not clear to you, look at his friends.",
+      "name" : "Japanese Proverb"
+    },
+    {
+      "message" :"Nothing is more expensive than free.",
+      "name" : "Japanese Proverb"
+    },
+    {
+      "message" :"One kind word can warm three winter months.",
+      "name" : "Japanese Proverb"
+    },
+    {
+      "message" :"Good medicine tastes bitter.",
+      "name" : "Japanese Proverb"
+    },
+    {
+      "message" :"If you fall down seven times, get up eight.",
+      "name" : "Japanese Proverb"
+    },
+    {
+      "message" :"The frog in the well knows not of the great ocean.",
+      "name" : "Japanese Proverb"
+    },
+    {
+      "message" :"Even monkeys fall from trees.",
+      "name" : "Japanese Proverb"
+    },
+    {
+      "message" :"Unless an idiot dies, he won't be cured.",
+      "name" : "Japanese Proverb"
+    },
+    {
+      "message" :"Even a fool has one talent.",
+      "name" : "Japanese Proverb"
+    },
+    {
+      "message" :" A great river does not refuse any small streams.",
+      "name" : "South Korean Proverb"
+    },
+    {
+      "message" :"Even if the sky falls on you, there is a hole that you can escape from.",
+      "name" : "South Korean Proverb"
+    },
+    {
+      "message" :"Cast no dirt into the well that gives you water.",
+      "name" : "South Korean Proverb"
+    },
+    {
+      "message" :"You will hate a beautiful song if you sing it often.",
+      "name" : "South Korean Proverb"
+    },
+    {
+      "message" :"When you have three daughters, you sleep with the door open.",
+      "name" : "South Korean Proverb"
+    },
+    {
+      "message" :"To be prepared is to have no anxiety.",
+      "name" : "South Korean Proverb"
+    },
+    {
+      "message" :"Even if you encounter a stone bridge, tap it first before crossing.",
+      "name" : "South Korean Proverb"
+    },
+    {
+      "message" :"Virginity can be lost in one night.",
+      "name" : "South Korean Proverb"
+    },
+    {
+      "message" :"Even though words have no wings, they can still fly a thousand miles.",
+      "name" : "South Korean Proverb"
+    },
+    {
+      "message" :"He who seeks vengeance must dig two graves: one for his enemy and one for himself.",
+      "name" : "Chinese Proverb"
+    },
+    {
+      "message" :"Reading ten thousand books is not as useful as traveling ten thousand miles.",
+      "name" : "Chinese Proverb"
+    },
+    {
+      "message" :"Clear conscience never fears midnight knocking.",
+      "name" : "Chinese Proverb"
+    },
+    {
+      "message" :"One generation plants the trees, and another gets the shade.",
+      "name" : "Chinese Proverb"
+    },
+    {
+      "message" :"He who sacrifices his conscience to ambition burns a picture to obtain the ashes.",
+      "name" : "Chinese Proverb"
+    },
+    {
+      "message" :"f you want happiness for a lifetime; help someone else.",
+      "name" : "Chinese Proverb"
+    },
+    {
+      "message" :"Politeness wins the confidence of princes.",
+      "name" : "Chinese Proverb"
+    },
+    {
+      "message" :"Fear the living not the dead.",
+      "name" : "Filipino Proverb"
+    },
+    {
+      "message" :"The monkey may be intelligent, but can be outsmarted.",
+      "name" : "Filipino Proverb"
+    }
+    ]
+},
+{
+  "title" : "Australian",
+  "quotes" : [
+    {
+      "message" :"A careless person will be taken by surprise by his observant enemy.",
+      "name" : "Amerian Samoa Proverb"
+    },
+     {
+      "message" :"In every generation there are some outstanding chiefs.",
+      "name" : "Amerian Samoa Proverb"
+    },
+     {
+      "message" :"It is useless to shake the branch that bears no fruit.",
+      "name" : "Amerian Samoa Proverb"
+    },
+     {
+      "message" :"A careless person will be taken by surprise by his observant enemy.",
+      "name" : "Amerian Samoa Proverb"
+    },
+     {
+      "message" :"The person with burnt fingers asks for tongs.",
+      "name" : "Amerian Samoa Proverb"
+    },
+     {
+      "message" :"If at first you don't suceed try, try and try again.",
+      "name" : "Amerian Samoa Proverb"
+    },
+     {
+      "message" :"Stones rot but not words.",
+      "name" : "Amerian Samoa Proverb"
+    },
+     {
+      "message" :"The skate swims away, but leaves its barb.",
+      "name" : "Amerian Samoa Proverb"
+    },
+     {
+      "message" :"Obey like a canoe before the wind.",
+      "name" : "Amerian Samoa Proverb"
+    },
+     {
+      "message" :"Who sits at home in the morning will not eat in the evening.",
+      "name" : "Amerian Samoa Proverb"
+    },
+     {
+      "message" :"Don’t salute with a hat that doesn’t belong to you.",
+      "name" : "Guamanian Proverb"
+    },
+     {
+      "message" :"Don’t salute with a hat that doesn’t belong to you.",
+      "name" : "Guamanian Proverb"
+    },
+     {
+      "message" :"The more you talk the more you lie.",
+      "name" : "Guamanian Proverb"
+    },
+     {
+      "message" :"It is better to ask for something and be refused it, than to give and not have it appreciated.",
+      "name" : "Guamanian Proverb"
+    },
+     {
+      "message" :"He who provokes a war must be sure that he knows how to fight.",
+      "name" : "Tongan Proverb"
+    },
+     {
+      "message" :"Friendship is a furrow in the sand.",
+      "name" : "Tongan Proverb"
+    },
+     {
+      "message" :"The hyena does not forget where it has hidden its kill.",
+      "name" : "Tongan Proverb"
+    },
+     {
+      "message" :"The white man has no kin. his kin is his money.",
+      "name" : "Tongan Proverb"
+    },
+     {
+      "message" :"Each bay, its own wind.",
+      "name" : "Fijian Proverb"
+    },
+     {
+      "message" :"Idleness is to be dead at the limbs but alive within.",
+      "name" : "Fijian Proverb"
+    },
+     {
+      "message" :"Life is like this: sometimes sun, sometimes rain.",
+      "name" : "Fijian Proverb"
+    },
+     {
+      "message" :"All knowledge are not taught in one school.",
+      "name" : "Hawaiian Proverb"
+    },
+     {
+      "message" :"The Lehua blossom unfolds when the rains tread on it.",
+      "name" : "Hawaiian Proverb"
+    },
+     {
+      "message" :"Love is a spring that flow freely.",
+      "name" : "Hawaiian Proverb"
+    },
+     {
+      "message" :"No task is too big when done together.",
+      "name" : "Hawaiian Proverb"
+    },
+     {
+      "message" :"A fisherman of shallow seas uses only a short line; a fisherman of the deep sea uses a long line.",
+      "name" : "Hawaiian Proverb"
+    },
+     {
+      "message" :"Keep your eyes on the sun and you will not see the shadows.",
+      "name" : "Australian Proverb"
+    },
+     {
+      "message" :"Being different is easy. Doing something better than others is hard.",
+      "name" : "Australian Proverb"
+    },
+     {
+      "message" :"One good turn deserves another.",
+      "name" : "Australian Proverb"
+    },
+     {
+      "message" :" Those who play bowls must look out for rubbers.",
+      "name" : "Australian Proverb"
+    },
+     {
+      "message" :"The more you know, the less you need.",
+      "name" : "Australian Proverb"
+    },
+     {
+      "message" :"The kumara never talks about how sweet it is.",
+      "name" : "New Zealander Proverb"
+    },
+     {
+      "message" :"It is woman and land that chiefly destroy men.",
+      "name" : "New Zealander Proverb"
+    },
+     {
+      "message" :"Old canoes can be restored, but youth and beauty cannot.",
+      "name" : "New Zealander Proverb"
+    },
+     {
+      "message" :" A full stomach causes a bird to sing, a man to laugh.",
+      "name" : "New Zealander Proverb"
+    },
+     {
+      "message" :"Boast during the day; be humble at night.",
+      "name" : "New Zealander Proverb"
+    },
+     {
+      "message" :"Only the foolish visit the land of the cannibals.",
+      "name" : "New Zealander Proverb"
+    }
+    ]
+},
+{
+  "title" : "European",
+  "quotes" : [
+    {
+      "message" :"He who battles under the native skies gains the lion’s courage.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"If you are afraid of love then you are afraid of life.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"A coward is afraid of his own shadow.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"A weak man has a long tongue.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"He, who does not live for others, does not live for himself.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"On the marriage of your son seek the advice of a dozen, on a divorce – of a hundred.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"A mother’s anger is like snow: there is much of it but it melts quickly.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"Who does not value a kopeck takes no care of a ruble.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"Men look for a beautiful woman, a homely one looks for a husband herself.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"If the neighbours are good ones, even a blind girl will get married.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"It’s better to be a poor man in your homeland than a king in Cairo.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"Your friend is your mirror.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"If you’re a friend to everyone – that means to no one.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"What is hidden in heart is reflected on face.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"Do a kind deed and throw it into the water – it won’t be lost.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"One who grows a forest never destroys it.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"If you want to test a friend – look at him in anger.",
+      "name" : "Abkhaz Proverb"
+    },
+    {
+      "message" :"Advice is a free gift that can become expensive for the one who gets it.",
+      "name" : "Armenia Proverb"
+    },
+    {
+      "message" :"The woman who loves her husband corrects his faults; the man that loves his wife exaggerates them.",
+      "name" : "Armenia Proverb"
+    },
+    {
+      "message" :"A woman is like the moon-some nights it is silver others gold.",
+      "name" : "Armenia Proverb"
+    },
+    {
+      "message" :"The bride doesn't know how to dance, she says the floor is slanted.",
+      "name" : "Armenia Proverb"
+    },
+    {
+      "message" :"He who looks for a friend without a fault will never find one.",
+      "name" : "Armenia Proverb"
+    },
+    {
+      "message" :"When the thief has stolen from a thief, God laughs in heaven.",
+      "name" : "Armenia Proverb"
+    },
+    {
+      "message" :" Who drinks till bottom, lives without mind.",
+      "name" : "Belarusian Proverb"
+    },
+    {
+      "message" :"Advice is a free gift that can become expensive for the one who gets it.",
+      "name" : "Belarusian Proverb"
+    },
+    {
+      "message" :"When you live next to the cemetery you cannot weep for everyone..",
+      "name" : "Belarusian Proverb"
+    },
+    {
+      "message" :"Fear the law not the judge",
+      "name" : "Belarusian Proverb"
+    },
+    {
+      "message" :"There are only two types of Chinese those who give bribes and those who take them.",
+      "name" : "Belarusian Proverb"
+    },
+    {
+      "message" :"Who talks little hears better",
+      "name" : "Belarusian Proverb"
+    },
+    {
+      "message" :"ell me who your friends are, so I can tell you who you are.",
+      "name" : "Bugarian Proverb"
+    },
+    {
+      "message" :"A tree falls the way it leans",
+      "name" : "Bulgarian Proverb"
+    },
+    {
+      "message" :"You can guess the day by the evening.",
+      "name" : "Bulgarian Proverb"
+    },
+    {
+      "message" :"Embrace the snake and it will bite you.",
+      "name" : "Bulgarian Proverb"
+    },
+    {
+      "message" :"Where shepherds are many, sheeps are lost.",
+      "name" : "Bulgarian Proverb"
+    },
+    {
+      "message" :"The buzzing of the flies does not turn them into bees.",
+      "name" : "Georgian Proverb"
+    },
+    {
+      "message" :"If women were really good, God would be married.",
+      "name" : "Georgian Proverb"
+    },
+    {
+      "message" :"Whatever the wind brings he takes away with him.",
+      "name" : "Georgian Proverb"
+    },
+    {
+      "message" :"Do not blame the sun for the darkness of the night.",
+      "name" : "Georgian Proverb"
+    },
+    {
+      "message" :"When three people say you are drunk, go to sleep.",
+      "name" : "Georgian Proverb"
+    },
+    {
+      "message" :"If you forgive the fox for stealing your chickens, he will take your sheep.",
+      "name" : "Georgian Proverb"
+    },
+    {
+      "message" :"God keeps those safe who keep themselves safe.",
+      "name" : "Greek Proverb"
+    },
+    {
+      "message" :" If you join the dance-circle, you must dance.",
+      "name" : "Greek Proverb"
+    },
+    {
+      "message" :"When you do what you can, you do what you must.",
+      "name" : "Greek Proverb"
+    },
+    {
+      "message" :"When the fox cannot reach the grapes he says they are not ripe.",
+      "name" : "Greek Proverb"
+    },
+    {
+      "message" :"A man's character is his fate.",
+      "name" : "Greek Proverb"
+    },
+    {
+      "message" :"Success without value is an occasion for silly people to think badly.",
+      "name" : "Greek Proverb"
+    },
+    {
+      "message" :"Seek the company of capable men.",
+      "name" : "Greek Proverb"
+    },
+    {
+      "message" :"He who drinks on credit, gets twice as drunk.",
+      "name" : "Greek Proverb"
+    },
+    {
+      "message" :"He that marries for love, dies miserably of anger.",
+      "name" : "Italian Proverb"
+    },
+    {
+      "message" :"Those who live for themselves were born for nothing.",
+      "name" : "Italian Proverb"
+    },
+    {
+      "message" :"Where god has a church the devil will have his chapel.",
+      "name" : "Italian Proverb"
+    },
+    {
+      "message" :" When God punishes a land, he deprives it leaders of wisdom.",
+      "name" : "Italian Proverb"
+    },
+    {
+      "message" :"Don't hit a man when he is down.",
+      "name" : "Italian Proverb"
+    },
+    {
+      "message" :"When in Rome, do as the Romans do.",
+      "name" : "Italian Proverb"
+    },
+    {
+      "message" :"There's no peace in the chicken coop if the hen crows and the cock is silent.",
+      "name" : "Italian Proverb"
+    },
+    {
+      "message" :"All roads lead to Rome ",
+      "name" : "Italian Proverb"
+    },
+    {
+      "message" :"Constant dropping wears away the stone.",
+      "name" : "Italian Proverb"
+    },
+    {
+      "message" :"Where people are promising much to you, bring a small bag.",
+      "name" : "Kosovar Proverb"
+    },
+    {
+      "message" :"Those who know how to praise also know how to lie.",
+      "name" : "Kosovar Proverb"
+    },
+    {
+      "message" :"You know the real meaning of peace only if you have been through the war",
+      "name" : "Kosovar Proverb"
+    },
+    {
+      "message" :"Do not measure the wolf's tail till he is dead.",
+      "name" : "Kosovar Proverb"
+    },
+    {
+      "message" :"If you are quick to believe, you'll be quickly decieved.",
+      "name" : "Kosovar Proverb"
+    },
+    {
+      "message" :"A greedy father has thieves for children.",
+      "name" : "Kosovar Proverb"
+    },
+    {
+      "message" :"Make promises and sell your freedom.",
+      "name" : "Kosovar Proverb"
+    },
+    {
+      "message" :"Don't put gold buttons on a torn coat.",
+      "name" : "Kosovar Proverb"
+    },
+    {
+      "message" :"The woman cries before the wedding and the man after.",
+      "name" : "Polish Proverb"
+    },
+    {
+      "message" :"Poverty does not lose its virtue.",
+      "name" : "Polish Proverb"
+    },
+    {
+      "message" :"Time and tide waits for no man.",
+      "name" : "Polish Proverb"
+    },
+    {
+      "message" :"All times are good when old.",
+      "name" : "Polish Proverb"
+    },
+    {
+      "message" :"Just as one calls into the forest, so it echoes back.",
+      "name" : "Polish Proverb"
+    },
+    {
+      "message" :"He who can't be advised, can also not be helped.",
+      "name" : "Polish Proverb"
+    },
+    {
+      "message" :" A success has many fathers, a failure is an orphan.",
+      "name" : "Polish Proverb"
+    },
+    {
+      "message" :"Where devil cannot go, he will send a woman.",
+      "name" : "Polish Proverb"
+    },
+    {
+      "message" :"God keeps those safe who keep themselves safe.",
+      "name" : "Russian Proverb"
+    },
+    {
+      "message" :"Beware of a quite dog and still water.",
+      "name" : "Russian Proverb"
+    },
+    {
+      "message" :"Trust in God, but lock your car.",
+      "name" : "Russian Proverb"
+    },
+    {
+      "message" :"God does not give horns to a cow that likes to gore.",
+      "name" : "Russian Proverb"
+    },
+    {
+      "message" :"If your face looks skewed, don't blame the mirror.",
+      "name" : "Russian Proverb"
+    },
+    {
+      "message" :"Hold your children with your heart but teach them with your hands.",
+      "name" : "Russian Proverb"
+    },
+    {
+      "message" :"As you cooked the porridge, so must you eat it.",
+      "name" : "Russian Proverb"
+    },
+    {
+      "message" :"When a neighbor gets divorced everyone thinks of his own wife.",
+      "name" : "Swiss Proverb"
+    },
+    {
+      "message" :"Marriage is a covered dish.",
+      "name" : "Swiss Proverb"
+    },
+    {
+      "message" :"At the bottom of the sack you will find the bill.",
+      "name" : "Swiss Proverb"
+    },
+    {
+      "message" :"The tongue is the worst piece of meat in the world.",
+      "name" : "Swiss Proverb"
+    },
+    {
+      "message" :"When in doubt who will win, be neutral.",
+      "name" : "Swiss Proverb"
+    },
+    {
+      "message" :"The poor lack much, but the greedy lack more.",
+      "name" : "Swiss Proverb"
+    },
+    {
+      "message" :"You learn through mistakes - no one was born a master.",
+      "name" : "Swiss Proverb"
+    },
+    {
+      "message" :"He who mocks the cripple should be straight himself.",
+      "name" : "Swiss Proverb"
+    },
+    {
+      "message" :"Every man is the maker of his own fortune.",
+      "name" : "Albanian Proverb"
+    },
+    {
+      "message" :"After shaking hands with a Greek, count your fingers.",
+      "name" : "Albanian Proverb"
+    },
+    {
+      "message" :"When you have nothing to do, rattle the door.",
+      "name" : "Albanian Proverb"
+    },
+    {
+      "message" :"The man who has eaten enough will never believe a hungry one.",
+      "name" : "Albanian Proverb"
+    },
+    {
+      "message" :"Who is shy dies from hunger.",
+      "name" : "Albanian Proverb"
+    },
+    {
+      "message" :"He who can read and write has four eyes.",
+      "name" : "Albanian Proverb"
+    },
+    {
+      "message" :" Measure thrice, cut once.",
+      "name" : "Albanian Proverb"
+    },
+    {
+      "message" :"He who leans against a big tree will always find shade.",
+      "name" : "Albanian Proverb"
+    },
+    {
+      "message" :"God gives the wheat, He doesn't bake the bread.",
+      "name" : "Austrian Proverb"
+    },
+    {
+      "message" :"History is constantly teaching, but it does not find many pupils.",
+      "name" : "Austrian Proverb"
+    },
+    {
+      "message" :"The earth does not shake when the flea coughs.",
+      "name" : "Austrian Proverb"
+    },
+    {
+      "message" :" A blind chicken will often find an ear of corn.",
+      "name" : "Austrian Proverb"
+    },
+    {
+      "message" :"An educated woman finds few suitors.",
+      "name" : "Austrian Proverb"
+    },
+    {
+      "message" :"If you shoot your arrows at stones, you will damage them.",
+      "name" : "Austrian Proverb"
+    },
+    {
+      "message" :" A light is still a light, even though the blind man cannot see it.",
+      "name" : "Austrian Proverb"
+    },
+    {
+      "message" :"Experience is the comb that nature gives us when we are bald.",
+      "name" : "Belgium Proverb"
+    },
+    {
+      "message" :"It is no use waiting for your ship to come in unless you have sent one out.",
+      "name" : "Belgium Proverb"
+    },
+    {
+      "message" :"He who arrives too late finds the plate turned over.",
+      "name" : "Belgium Proverb"
+    },
+    {
+      "message" :"The beggar may sing before the thief.",
+      "name" : "Belgium Proverb"
+    },
+    {
+      "message" :"Who sieves too much keeps the rubbish",
+      "name" : "Belgium Proverb"
+    },
+    {
+      "message" :"Who wants to lick honey must not shy away from the bees.",
+      "name" : "German Proverb"
+    },
+    {
+      "message" :"He who teaches children learns more than they do.",
+      "name" : "German Proverb"
+    },
+    {
+      "message" :"Reckless youth makes rueful age.",
+      "name" : "German Proverb"
+    },
+    {
+      "message" :"Deal gently with the bird you mean to catch.",
+      "name" : "German Proverb"
+    },
+    {
+      "message" :"He who conquers his anger has conquered an enemy.",
+      "name" : "German Proverb"
+    },
+    {
+      "message" :"Those who get lost on the way to school will never find their way through life.",
+      "name" : "German Proverb"
+    },
+    {
+      "message" :"Youth is a fine thing but it doesn’t come twice.",
+      "name" : "Irish Proverb"
+    },
+    {
+      "message" :"Put a silk suit on a goat, it’s still a goat.",
+      "name" : "Irish Proverb"
+    },
+    {
+      "message" :"The person who brings a story to you will take away two from you.",
+      "name" : "Irish Proverb"
+    },
+    {
+      "message" :"Praise the ford when you have crossed it.",
+      "name" : "Irish Proverb"
+    },
+    {
+      "message" :"The tongue ties knots that the teeth cannot loosen.",
+      "name" : "Irish Proverb"
+    },
+    {
+      "message" :"It is better to be born lucky than rich.",
+      "name" : "Irish Proverb"
+    },
+    {
+      "message" :"Desperate evils need desperate remedies.",
+      "name" : "Portugal Proverb"
+    },
+    {
+      "message" :"It's better to be alone than in bad company.",
+      "name" : "Portugal Proverb"
+    },
+    {
+      "message" :"Between husband and wife, one doesn't put the spoon.",
+      "name" : "Portugal Proverb"
+    },
+    {
+      "message" :"True love never grows old.",
+      "name" : "Portugal Proverb"
+    },
+    {
+      "message" :"Haste is the enemy of perfection.",
+      "name" : "Portugal Proverb"
+    },
+    {
+      "message" :"Don't ask God to guide your footsteps if you're not willing to move your feet.",
+      "name" : "Portugal Proverb"
+    },
+    {
+      "message" :"Lies have short legs.",
+      "name" : "Portugal Proverb"
+    },
+    {
+      "message" :"It’s better to be a hammer than a nail.",
+      "name" : "French Proverb"
+    },
+    {
+      "message" :"It is not the cow that shouts the loudest that gives the most milk.",
+      "name" : "French Proverb"
+    },
+    {
+      "message" :"Every one for himself and God for us all.",
+      "name" : "French Proverb"
+    },
+    {
+      "message" :"Whom God will destroy, he first make mad.",
+      "name" : "French Proverb"
+    },
+    {
+      "message" :"As the old crow sing, so sings its fledglings.",
+      "name" : "French Proverb"
+    },
+    {
+      "message" :"Every why has a wherefore.",
+      "name" : "French Proverb"
+    },
+    {
+      "message" :"Conceal not the truth from thy physcian and lawyer.",
+      "name" : "French Proverb"
+    },
+    {
+      "message" :"Actions speak louder than words.",
+      "name" : "English Proverb"
+    },
+    {
+      "message" :"Man proposes but God disposes..",
+      "name" : "English Proverb"
+    },
+    {
+      "message" :"Nothing ventured, nothing gained.",
+      "name" : "English Proverb"
+    },
+    {
+      "message" :"You can lead a horse to water but you can't make it drink.",
+      "name" : "English Proverb"
+    },
+    {
+      "message" :"Necessity is the mother of invention.",
+      "name" : "English Proverb"
+    },
+    {
+      "message" :"Once bitten, twice shy.",
+      "name" : "English Proverb"
+    },
+    {
+      "message" :"When the going gets tough, the tough get going.",
+      "name" : "English Proverb"
+    },
+    {
+      "message" :"Jack of all trades is master of none.",
+      "name" : "English Proverb"
+    },
+    {
+      "message" :"Fools look to tomorrow; wise men use tonight.",
+      "name" : "Scottish Proverb"
+    },
+    {
+      "message" :"Choose your wife with her nightcap on.",
+      "name" : "Scottish Proverb"
+    },
+    {
+      "message" :"He that teaches himself has a fool for a master.",
+      "name" : "Scottish Proverb"
+    },
+    {
+      "message" :"Never begin anything for which you have no aptitude.",
+      "name" : "Scottish Proverb"
+    },
+    {
+      "message" :"Spend no more than you can afford.",
+      "name" : "Scottish Proverb"
+    },
+    {
+      "message" :"Look after the pennies and the pounds will take care of themselves.",
+      "name" : "Scottish Proverb"
+    },
+    {
+      "message" :"Old proverbs tell the truth.",
+      "name" : "Scottish Proverb"
+    },
+    {
+      "message" :"There's a skeleton in every cupboard.",
+      "name" : "Scottish Proverb"
+    },
+    {
+      "message" :"Beauty is of no value when honour is lost.",
+      "name" : "Scottish Proverb"
+    },
+    {
+      "message" :"Get what you can and keep what you have - that's the way to get rich.",
+      "name" : "Scottish Proverb"
+    },
+    {
+      "message" :"A fool may earn money, but it takes a wise man to keep it.",
+      "name" : "Scottish Proverb"
+    },
+    {
+      "message" :"Better a good shilling than a dud sovereign.",
+      "name" : "Welsh Proverb"
+    },
+    {
+      "message" :"Though the day be long, evening will come.",
+      "name" : "Welsh Proverb"
+    },
+    {
+      "message" :"Money is the key that opens all locks.",
+      "name" : "Welsh Proverb"
+    },
+    {
+      "message" :"Praise your country and live in it.",
+      "name" : "Welsh Proverb"
+    },
+    {
+      "message" :"The grave makes everybody equal.",
+      "name" : "Welsh Proverb"
+    },
+    {
+      "message" :"Wise is the man who makes a friend of his enemy.",
+      "name" : "Welsh Proverb"
+    },
+    {
+      "message" :"Patience is the mother of all wisdom.",
+      "name" : "Welsh Proverb"
+    },
+    {
+      "message" :"If a crown were to be placed on every fool's head, we would all be kings.",
+      "name" : "Welsh Proverb"
+    },
+    {
+      "message" :"He who sows thorns, let him not go barefooted.",
+      "name" : "Welsh Proverb"
+    }
+    ]
+},
+{
+  "title" : "North American",
+  "quotes" : [
+    {
+      "message" :"The devil places a pillow for a drunken man to fall upon.",
+      "name" : "Canada"
+    }, {
+      "message" :"The early bird catches the worm.",
+      "name" : "Canada"
+    }, {
+      "message" :"Do not yell “dinner” until your knife is in the loaf.",
+      "name" : "Canada"
+    }, {
+      "message" :"Walk a mile in my moccasins to learn where they pinch.",
+      "name" : "Canada"
+    }, {
+      "message" :"There is no place like home.",
+      "name" : "Canada"
+    }, {
+      "message" :"Through other people’s faults, wise men correct their own.",
+      "name" : "Canada"
+    }, {
+      "message" :"There’s no trailer hitch on a hearse.",
+      "name" : "Canada"
+    }, {
+      "message" :"Patience is a tree whose root is bitter, but its fruit is very sweet.",
+      "name" : "Canada"
+    }, {
+      "message" :"Think before you speak.",
+      "name" : "Canada"
+    }, {
+      "message" :"God Bless America, but God help Canada to put up with them!",
+      "name" : "Canada"
+    }, {
+      "message" :"Some pursue happiness, others create it.",
+      "name" : "Canada"
+    }, {
+      "message" :"Luck is not like pregnancy which lasts for nine months.",
+      "name" : "Mexico"
+    }, {
+      "message" :"Marriage is the only war in which you sleep with the enemy.",
+      "name" : "Mexico"
+    }, {
+      "message" :"Time is a good counselor and an eye-opener.",
+      "name" : "Mexico"
+    }, {
+      "message" :"To bad steps, make them quick.",
+      "name" : "Mexico"
+    },{ 
+      "message" :"Pay what you owe and you will know what you are worth.",
+      "name" : "Mexico"
+    },{ 
+      "message" :"No road is safer than the one just robbed.",
+      "name" : "Mexico"
+    },{ 
+      "message" :"When someone has made up his mind to lose, it would even be a pity should he win.",
+      "name" : "Mexico"
+    },{ 
+      "message" :"The worst currents are hidden under gentle-flowing water.",
+      "name" : "Mexico"
+    },{ 
+      "message" :"Love sickness hurts but does not kill.",
+      "name" : "Mexico"
+    },{ 
+      "message" :"Even the saints' patience has its limits.",
+      "name" : "Mexico"
+    },{ 
+      "message" :"A secret between two is god's secret; a secret between three is known to all.",
+      "name" : "Mexico"
+    },{ 
+      "message" :"Tree which grows bent will never get straight again.",
+      "name" : "Mexico"
+    },{ 
+      "message" :"When hunger comes through the door, love jumps out the window.",
+      "name" : "Mexico"
+    },{ 
+      "message" :"Tree which grows bent will never get straight again.",
+      "name" : "Mexico"
+    },{ 
+      "message" :"Blood is thicker than water.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"A harvest of peace is produced from a seed of contentment.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"Crime doesn't pay.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"Where there's a will, there's a way.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"Easy come, easy go.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"A joy that's shared is a joy made double.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"Better late than never.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"All's well that ends well.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"A lady is a woman who makes it easy for a man to be a gentleman.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"You can't judge a book by its cover.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"Ambition is putting a ladder against the sky.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"Ambition is putting a ladder against the sky.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"Early to bed, early to rise makes a man healthy, wealthy, and wise.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"A friend in need is a friend indeed.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"Arrogance is a kingdom without a crown.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"Honesty is the best policy.",
+      "name" : "USA Proverb"
+    },{ 
+      "message" :"Character is what you are in the dark.",
+      "name" : "USA Proverb"
+    }
+    ]
+},
+{
+  "title" : "South American",
+  "quotes" : [
+    {
+      "message" : "He who lives on illusions, dies of disillusion.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "For our sins God has created three enemies for us: mice in the house, the fox in the mountains, and a priest in our village.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "Better a devil you know than a hundred strangers.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "A good guitarist will play on one string.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "You cannot hide the sun with one hand.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "Widows weep but they look for another husband.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "Two cats will not live together in one sack.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "The daughter-in-law wipes away what the mother-in-law has seen.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "Such is the fate of the sheep: either shorn or roasted.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "Old love and wood will burn as soon as they get the chance.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "Old debts are never paid, and the new ones get old easily.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "Light in the streets, shadows in the house.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "If you are going to die you will die in the dark even if you have been in the candle business.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "Hens perched on top will shit on those below.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "He who prays a lot is afraid of something.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "God writes on crooked lines.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "Laughing wife, crying purse.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "None of us knows who we are.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "The baby who doesn't cry isn't nursed.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "The lazybones must work twice.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "Become famous, then go to sleep.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "He who lives on illusions, dies of disillusion.",
+      "name" : "South American Proverb"
+    },
+     {
+      "message" : "In the mouth of the liar the truth is doubtful.",
+      "name" : "Argentine Proverb"
+    },
+     {
+      "message" : "If you have a tail of straw, then keep away from the fire.",
+      "name" : "Argentine Proverb"
+    },
+     {
+      "message" : "The one who loves you will also make you weep.",
+      "name" : "Argentine Proverb"
+    },
+     {
+      "message" : "You can’t claim heaven as your own if you are just going to sit under it.",
+      "name" : "Argentine Proverb"
+    },
+     {
+      "message" : "A learned man is twice born.",
+      "name" : "Argentine Proverb"
+    },
+     {
+      "message" : "You don’t have to cut a tree down to get at the fruit.",
+      "name" : "Argentine Proverb"
+    },
+     {
+      "message" : "Three daughters and a mother are four devils for a father.",
+      "name" : "Argentine Proverb"
+    },
+     {
+      "message" : "Woman is like your shadow; follow her, she flies; fly from her, she follows.",
+      "name" : "Argentine Proverb"
+    },
+     {
+      "message" : "Never be deterred by the closing of one door.",
+      "name" : "Argentine Proverb"
+    },
+     {
+      "message" : "It takes two to tango.",
+      "name" : "Argentine Proverb"
+    },
+     {
+      "message" : "A dog that barks all the time gets little attention.",
+      "name" : "Argentine Proverb"
+    },
+     {
+      "message" : "No woman can make a wise man out of a fool, but every woman can change a wise man into a fool.",
+      "name" : "Argentine Proverb"
+    },
+     {
+      "message" : "The dog that doesn't walk doesn't find a bone.",
+      "name" : "Chilean Proverb"
+    },
+     {
+      "message" : "To God praying and with the mallet using.",
+      "name" : "Chilean Proverb"
+    },
+     {
+      "message" : "God hears the person who speaks.",
+      "name" : "Chilean Proverb"
+    },
+     {
+      "message" : "It is god who cures, and the physician gets the money.",
+      "name" : "Chilean Proverb"
+    },
+     {
+      "message" : "The shrimp that falls asleep gets carried away by the current.",
+      "name" : "Chilean Proverb"
+    },
+     {
+      "message" : "If you go near a good tree, good shadow will protect you.",
+      "name" : "Chilean Proverb"
+    },
+     {
+      "message" : "He who follows it attains it.",
+      "name" : "Chilean Proverb"
+    },
+     {
+      "message" : "A bad rumor is better than bad news.",
+      "name" : "Chilean Proverb"
+    },
+     {
+      "message" : "If you want the dog accept the fleas.",
+      "name" : "Chilean Proverb"
+    },
+     {
+      "message" : "In union there is strength.",
+      "name" : "Chilean Proverb"
+    },
+     {
+      "message" : "Tell me who is by your side and I'll tell you who you are.",
+      "name" : "Chilean Proverb"
+    },
+     {
+      "message" : "Heaven help those who help themselves.",
+      "name" : "Falkland Islander Proverb"
+    },
+     {
+      "message" : "Slow and steady wins the race.",
+      "name" : "Falkland Islander Proverb"
+    },
+     {
+      "message" : "A bird in the hand is worth two in the bush.",
+      "name" : "Falkland Islander Proverb"
+    },
+     {
+      "message" : "People who live in glass houses shouldn't throw stones.",
+      "name" : "Falkland Islander Proverb"
+    },
+     {
+      "message" : "Empty vessels make the most sound.",
+      "name" : "Falkland Islander Proverb"
+    },
+     {
+      "message" : "As you make your bed, so you will sleep on it.",
+      "name" : "Falkland Islander Proverb"
+    },
+     {
+      "message" : "Of two evils choose the lesser.",
+      "name" : "Falkland Islander Proverb"
+    },
+     {
+      "message" : "Don't count your chickens before they're hatched.",
+      "name" : "Falkland Islander Proverb"
+    },
+     {
+      "message" : "Justice delayed is justice denied.",
+      "name" : "Falkland Islander Proverb"
+    },
+     {
+      "message" : "Don't bite the hand that feeds you.",
+      "name" : "Falkland Islander Proverb"
+    },
+     {
+      "message" : "From the tree of silence hands the fruit of tranquility.",
+      "name" : "Peruvian Proverb"
+    },
+     {
+      "message" : "Favor your own first, then others.",
+      "name" : "Peruvian Proverb"
+    },
+     {
+      "message" : "Fortune and olives are alike: sometimes a man has an abundance and other times not any.",
+      "name" : "Peruvian Proverb"
+    },
+     {
+      "message" : "Gold, when beaten, shines.",
+      "name" : "Peruvian Proverb"
+    },
+     {
+      "message" : "Little by little one walks far.",
+      "name" : "Peruvian Proverb"
+    },
+     {
+      "message" : "When the road is long, even slippers feel tight.",
+      "name" : "Peruvian Proverb"
+    },
+     {
+      "message" : "Love looks through spectacles that make copper look like gold, poverty like riches, and tears like pearls.",
+      "name" : "Peruvian Proverb"
+    },
+     {
+      "message" : "If i listen i have the advantage, if i speak others have it.",
+      "name" : "Peruvian Proverb"
+    },
+     {
+      "message" : "Lawyer for the rich, scourge of the poor.",
+      "name" : "Peruvian Proverb"
+    },
+     {
+      "message" : "The child weeps for it's good and the old man for his ill.",
+      "name" : "Peruvian Proverb"
+    },
+     {
+      "message" : "Youth is intoxication without wine; old age, wine without intoxication.",
+      "name" : "Peruvian Proverb"
+    },
+     {
+      "message" : "Only he who carries it knows how much the cross weighs.",
+      "name" : "Peruvian Proverb"
+    },
+     {
+      "message" : "The cross in the chest, but the devil in the facts.",
+      "name" : "Venezuelan Proverb"
+    },
+     {
+      "message" : "The fish dies by its mouth.",
+      "name" : "Venezuelan Proverb"
+    },
+     {
+      "message" : "Goat who tears a drum pays with its own leather. ",
+      "name" : "Venezuelan Proverb"
+    },
+     {
+      "message" : "Those who get up early are helped by God.",
+      "name" : "Venezuelan Proverb"
+    },
+     {
+      "message" : "Blood is inherited and virtue is acquired.",
+      "name" : "Venezuelan Proverb"
+    },
+     {
+      "message" : "Tree born bent will never straighten it's log.",
+      "name" : "Venezuelan Proverb"
+    },
+     {
+      "message" : "Hungry love doesn't last.",
+      "name" : "Venezuelan Proverb"
+    },
+     {
+      "message" : "The man to whom god gives no children, the devil gives nieces and nephews.",
+      "name" : "Venezuelan Proverb"
+    },
+     {
+      "message" : "When there's hunger, there's no hard bread.",
+      "name" : "Venezuelan Proverb"
+    },
+     {
+      "message" : "When you see your neighbour's beard burns, soak yours.",
+      "name" : "Venezuelan Proverb"
+    },
+     {
+      "message" : "A good son returns home and tells what happens",
+      "name" : "Venezuelan Proverb"
+    },
+     {
+      "message" : "If you marry wise judgment, peace will become your brother-in-law.",
+      "name" : "Bolivia Proverb"
+    },
+     {
+      "message" : "An altercation is like buttermilk the more you stir it, the sourer it gets.",
+      "name" : "Bolivia Proverb"
+    },
+     {
+      "message" : "He who hears no advice will not reach old age.",
+      "name" : "Bolivia Proverb"
+    },
+     {
+      "message" : "It's easier to know your enemies than to know your friends.",
+      "name" : "Bolivia Proverb"
+    },
+     {
+      "message" : "It is better to eat bread with love than fowl with grief.",
+      "name" : "Bolivia Proverb"
+    },
+     {
+      "message" : "Where there is love, there is pain.",
+      "name" : "Bolivia Proverb"
+    },
+     {
+      "message" : " A tree that is born twisted never grows straight.",
+      "name" : "Bolivia Proverb"
+    },
+     {
+      "message" : "He who marries prudence is the brother-in-law of peace.",
+      "name" : "Bolivia Proverb"
+    },
+     {
+      "message" : "Good comes from far away; evil is close at hand.",
+      "name" : "Bolivia Proverb"
+    },
+     {
+      "message" : "There is no better friend than a burden.",
+      "name" : "Colombian Proverb"
+    },
+     {
+      "message" : "The person who recognizes his major mistakes is on the road to wisdom.",
+      "name" : "Colombian Proverb"
+    },
+     {
+      "message" : "He who overcomes his passions overcomes his greatest enemies.",
+      "name" : "Colombian Proverb"
+    },
+     {
+      "message" : "Poverty does not destroy virtue nor does wealth bestow it.",
+      "name" : "Colombian Proverb"
+    },
+     {
+      "message" : "He who shows a passion tells his enemy where he may hit him.",
+      "name" : "Colombian Proverb"
+    },
+     {
+      "message" : "A lame man always speaks when it's time to run",
+      "name" : "Colombian Proverb"
+    },
+     {
+      "message" : "He who says what he likes will hear what he does not like.",
+      "name" : "Colombian Proverb"
+    },
+     {
+      "message" : "Better to beg forgiveness than to ask permission.",
+      "name" : "Colombian Proverb"
+    },
+     {
+      "message" : "Good comes from far away; evil is close at hand.",
+      "name" : "Colombian Proverb"
+    },
+     {
+      "message" : "Having achieved a goal, it is difficult to retain it.",
+      "name" : " Guyanese Proverb"
+    },
+     {
+      "message" : "Never shop for black cloth at nighttime.",
+      "name" : " Guyanese Proverb"
+    },
+     {
+      "message" : "Drunk or soba, mind your own business.",
+      "name" : " Guyanese Proverb"
+    },
+     {
+      "message" : "Good and evil come from the same source.",
+      "name" : " Guyanese Proverb"
+    },
+     {
+      "message" : "Dead man can't run from coffin.",
+      "name" : " Guyanese Proverb"
+    },
+     {
+      "message" : "Don't wait until you want to urinate before you build a toilet.",
+      "name" : " Guyanese Proverb"
+    },
+     {
+      "message" : "Trouble is in the bush, you went and brought it home.",
+      "name" : " Guyanese Proverb"
+    },
+     {
+      "message" : "Not all who go to church go there to pray.",
+      "name" : " Guyanese Proverb"
+    },
+     {
+      "message" : "Common-sense was born before book-sense.",
+      "name" : " Guyanese Proverb"
+    },
+     {
+      "message" : "Cockroach have no business in fowl's dance.",
+      "name" : " Guyanese Proverb"
+    },
+     {
+      "message" : "Not all of a scholar’s knowledge comes from what he learned from his teacher.",
+      "name" : " Guyanese Proverb"
+    },
+     {
+      "message" : "Youth has its limitations. Experience teaches wisdom.",
+      "name" : " Guyanese Proverb"
+    },
+     {
+      "message" : "At home saints never perform miracles.",
+      "name" : "Brazilian Proverb"
+    },
+     {
+      "message" : "Goodwill makes the road shorter.",
+      "name" : "Brazilian Proverb"
+    },
+     {
+      "message" : "Never promise a poor person, and never owe a rich one.",
+      "name" : "Brazilian Proverb"
+    },
+     {
+      "message" : "He who knows nothing, doubts nothing.",
+      "name" : "Brazilian Proverb"
+    },
+     {
+      "message" : "A wise man learns at the fool's expense.",
+      "name" : "Brazilian Proverb"
+    },
+     {
+      "message" : "The saint is suspicious of too many sacrifices.",
+      "name" : "Brazilian Proverb"
+    },
+     {
+      "message" : "If it were ever to rain soup, the poor would only have forks.",
+      "name" : "Brazilian Proverb"
+    },
+     {
+      "message" : "Others will measure you with the same rod you use to measure them.",
+      "name" : "Brazilian Proverb"
+    },
+     {
+      "message" : "If God does not grant you glory, be content with fame.",
+      "name" : "Brazilian Proverb"
+    },
+     {
+      "message" : "Where blood has been shed the tree of forgiveness cannot grow.",
+      "name" : "Brazilian Proverb"
+    },
+     {
+      "message" : "Poverty is not a crime, but it's better not to show it.",
+      "name" : "Brazilian Proverb"
+    },
+     {
+      "message" : "Haste is the mother of imperfection.",
+      "name" : "Brazilian Proverb"
+    },
+     {
+      "message" : "Love is blind, so you have to feel your way.",
+      "name" : "Brazilian Proverb"
+    },
+     {
+      "message" : "He who hears no advice will not reach old age.",
+      "name" : "Ecuadorian Proverb"
+    },
+     {
+      "message" : "Pay what you owe and you will know what you are worth.",
+      "name" : "Ecuadorian Proverb"
+    },
+     {
+      "message" : "Alcohol preserves all, except employment",
+      "name" : "Ecuadorian Proverb"
+    },
+     {
+      "message" : "He who says what he likes will hear what he does not like.",
+      "name" : "Ecuadorian Proverb"
+    },
+     {
+      "message" : "In union there is strength.",
+      "name" : "Ecuadorian Proverb"
+    },
+     {
+      "message" : "The shrimp that falls asleep gets carried away by the current.",
+      "name" : "Ecuadorian Proverb"
+    },
+     {
+      "message" : "Never be deterred by the closing of one door.",
+      "name" : "Ecuadorian Proverb"
+    },
+     {
+      "message" : "The most desirable woman is always the one who belongs to someone else.",
+      "name" : "Ecuadorian Proverb"
+    },
+     {
+      "message" : "In youth we learn, in old age we understand.",
+      "name" : "Ecuadorian Proverb"
+    },
+     {
+      "message" : "Love sickness hurts but does not kill",
+      "name" : "Ecuadorian Proverb"
+    },
+     {
+      "message" : "Rare is the person who can weigh faults of another without putting his thumb on the scale.",
+      "name" : "Paraguayan Proverb"
+    },
+     {
+      "message" : "Be grateful with what you have rather than what you think might be out there.",
+      "name" : "Paraguayan Proverb"
+    },
+     {
+      "message" : "If you think the worst, you won't be far wrong.",
+      "name" : "Paraguayan Proverb"
+    },
+     {
+      "message" : "Whom the gods love die young.",
+      "name" : "Paraguayan Proverb"
+    },
+     {
+      "message" : "Gratitude ranks as the least of virtues, and the lack of gratitude is the worst of vices.",
+      "name" : "Paraguayan Proverb"
+    },
+     {
+      "message" : "With money anything is possible",
+      "name" : "Paraguayan Proverb"
+    },
+     {
+      "message" : "Nothing goes on for ever.",
+      "name" : "Paraguayan Proverb"
+    },
+     {
+      "message" : "Revenge is a dish which is served cold.",
+      "name" : "Paraguayan Proverb"
+    },
+     {
+      "message" : "A hatchet in the mouth is more harmful than a hatchet in the hand.",
+      "name" : "Paraguayan Proverb"
+    },
+     {
+      "message" : "Don't over stay your welcome.",
+      "name" : "Paraguayan Proverb"
+    },
+     {
+      "message" : "Don't take every illness to the doctor, or every quarrel to the lawyer, or every thirst to the tavern.",
+      "name" : "Uruguayan Proverb"
+    },
+     {
+      "message" : "Clear accounts make for long friendships.",
+      "name" : "Uruguayan Proverb"
+    },
+     {
+      "message" : "Time will give you the best disguise.",
+      "name" : "Uruguayan Proverb"
+    },
+     {
+      "message" : "The early bird God helps.",
+      "name" : "Uruguayan Proverb"
+    },
+     {
+      "message" : "That which is done at night appears in the day.",
+      "name" : "Uruguayan Proverb"
+    },
+     {
+      "message" : "In time of war, any hole is trench.",
+      "name" : "Uruguayan Proverb"
+    },
+     {
+      "message" : "Better to lose a minute in your life than your life in a minute.",
+      "name" : "Uruguayan Proverb"
+    },
+     {
+      "message" : "The favor of a man in power is like a summer shower.",
+      "name" : "Uruguayan Proverb"
+    },
+     {
+      "message" : "Gifts break rocks and melt hearts.",
+      "name" : "Uruguayan Proverb"
+    }
+    ]
+}
+]

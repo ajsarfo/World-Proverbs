@@ -1,0 +1,40 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="General">
+
+        <SwitchPreference
+            android:key="vibrate"
+            android:title="Vibrate"
+            android:summary="Vibrate on key pressed"
+            android:defaultValue="true" />
+
+        <SwitchPreference
+            android:key="night_mode"
+            android:title="Use night mode"
+            android:summary="Get that whiteness out of my sight"
+            android:defaultValue="false" />
+
+        <SwitchPreference
+            android:key="show_author_name"
+            android:title="Show name"
+            android:summary="Shows the proverb name below the quote(if available)"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Notifications">
+
+        <SwitchPreference
+            android:key="enable_notifications"
+            android:title="Enable notifications"
+            android:summary="Receive a daily notification ast specific time"
+            android:defaultValue="false" />
+
+        <Preference
+            android:key="reminder_time"
+            android:title="Set reminder time"
+            android:summary="Tap to add reminders" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/nav_home"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/top_proverbs"
+        android:icon="@drawable/nav_top_proverbs"
+        android:title="Top Proverbs"/>
+
+    <item
+        android:id="@+id/proverb_of_the_day"
+        android:icon="@drawable/nav_quote_of_the_day"
+        android:title="Proverb of the day"/>
+
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/nav_favorite"
+        android:title="Favorite Proverbs"/>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/settings"
+                android:icon="@drawable/app_settings"
+                android:title="Settings"/>
+
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/app_share"
+                android:title="Share"/>
+
+            <item
+                android:id="@+id/rate"
+                android:icon="@drawable/app_rate"
+                android:title="Rate"/>
+
+            <item
+                android:id="@+id/more"
+                android:icon="@drawable/app_more"
+                android:title="More apps"/>
+
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/app_info"
+                android:title="About"/>
+
+        </menu>
+    </item>
+</menu>

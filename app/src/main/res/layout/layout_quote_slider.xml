@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="binding"
+            type="com.sarftec.worldproverbs.binding.QuoteItem" />
+    </data>
+
+   <androidx.constraintlayout.widget.ConstraintLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+       <com.google.android.material.textview.MaterialTextView
+           android:id="@id/message"
+           android:layout_width="match_parent"
+           android:layout_height="0dp"
+           android:layout_marginStart="16dp"
+           android:layout_marginLeft="16dp"
+           android:layout_marginTop="16dp"
+           android:layout_marginEnd="16dp"
+           android:layout_marginRight="16dp"
+           android:layout_marginBottom="16dp"
+           android:gravity="center"
+           android:shadowColor="@color/black_overlay"
+           android:shadowDx="4"
+           android:shadowDy="4"
+           android:shadowRadius="4"
+           android:text="@{binding.message}"
+           android:textColor="@color/white"
+           android:textSize="24sp"
+           app:layout_constraintBottom_toBottomOf="parent"
+           app:layout_constraintEnd_toEndOf="parent"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toTopOf="parent"
+           tools:fontFamily="@font/raleway_semi_bold"
+           tools:text="Sometimes taking the red pill makes you feel better. Life is what happens when you are busy making other plans. Make hay whiles the sun shines" />
+   </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

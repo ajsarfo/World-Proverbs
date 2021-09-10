@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">World Proverbs &amp; Sayings</string>
+
+    <string name="appodeal_id">7d158d4dfdb425e2c19e0399f84754cdd03b7b6aa49d281d</string>
+
+    <string name="loading">Preparing Quotes</string>
+    <string name="today_quote_title">Today\'s Proverb</string>
+
+    <string name="app_share_message">"Hi! Take a look at this amazing app World Proverbs. Its free!! You should get it too."</string>
+
+    <string name="reader_alignment">Alignment</string>
+    <string name="reader_background">Background</string>
+    <string name="reader_text_size">Text size</string>
+
+    <string name="reader_theme">Text color</string>
+    <string name="reader_font">Font style</string>
+    <string name="reader_bg_opacity">Opacity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="about_message">World Proverbs and Sayings App brings you wise sayings on how to change your life for better, every day, day by day with words of wisdom from many cultures around the world. Get amazing insight and advice to share with your friends, family and loved ones.</string>
+    <string name="about_support">For any feedback or query or feature request, please write in to us at sarftecsolutions111@gmail.com</string>
+    <string name="about_us">About Us</string>
+    <string name="about_screen_email">Email the developer</string>
+    <string name="about_screen_rate">Rate on Google Play</string>
+    <string name="about_screen_share">Share the app</string>
+
+    <string name="rate_dialog_header">Enjoying World Proverbs?</string>
+    <string name="ratings_message">Hi. We would love to know if this app was really helpful. Kindly leave a review if you love the app or feel we could be doing better</string>
+    <string name="ok">OK</string>
+    <string name="next_time">Next time</string>
+</resources>

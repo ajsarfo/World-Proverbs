@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/preview_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/toolbar_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:navigationIcon="@drawable/back"
+        app:title="Save and Share"
+        app:titleTextAppearance="@style/ToolbarTextAppearance"
+        app:titleTextColor="?attr/colorOnPrimary"
+        android:theme="@style/CustomToolbar"/>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/preview_save"
+        android:layout_width="@dimen/preview_image_card_size"
+        android:layout_height="@dimen/preview_image_card_size"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="@dimen/preview_card_space"
+        android:layout_marginRight="@dimen/preview_card_space"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        app:cardBackgroundColor="@color/color27"
+        app:cardCornerRadius="@dimen/preview_card_radius"
+        app:cardElevation="@dimen/preview_card_elevation"
+        app:layout_constraintEnd_toStartOf="@+id/preview_share"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/preview_image">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="@dimen/preview_image_icon_size"
+                android:layout_height="@dimen/preview_image_icon_size"
+                android:layout_marginBottom="@dimen/preview_card_text_margin_bottom"
+                app:srcCompat="@drawable/preview_download"
+                app:tint="@color/image_preview_card_text_color" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/raleway_medium"
+                android:text="Save"
+                android:textColor="@color/image_preview_card_text_color"
+                android:textSize="@dimen/preview_image_text_size" />
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/preview_share"
+        android:layout_width="@dimen/preview_image_card_size"
+        android:layout_height="@dimen/preview_image_card_size"
+        android:layout_marginEnd="@dimen/preview_card_space"
+        android:layout_marginRight="@dimen/preview_card_space"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="?attr/selectableItemBackground"
+        app:layout_constraintBottom_toBottomOf="@+id/preview_save"
+        app:layout_constraintEnd_toStartOf="@+id/preview_apply"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/preview_save"
+        app:layout_constraintTop_toTopOf="@+id/preview_save"
+        app:cardElevation="@dimen/preview_card_elevation"
+        app:cardCornerRadius="@dimen/preview_card_radius"
+        app:cardBackgroundColor="@color/fifth">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="@dimen/preview_image_icon_size"
+                android:layout_height="@dimen/preview_image_icon_size"
+                app:srcCompat="@drawable/preview_share"
+                app:tint="@color/image_preview_card_text_color"
+                android:layout_marginBottom="@dimen/preview_card_text_margin_bottom"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Share"
+                android:textSize="@dimen/preview_image_text_size"
+                android:textColor="@color/image_preview_card_text_color"
+                android:fontFamily="@font/raleway_medium"/>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/preview_apply"
+        android:layout_width="@dimen/preview_image_card_size"
+        android:layout_height="@dimen/preview_image_card_size"
+        android:layout_marginEnd="@dimen/preview_card_space"
+        android:layout_marginRight="@dimen/preview_card_space"
+        app:layout_constraintBottom_toBottomOf="@+id/preview_share"
+        android:clickable="true"
+        android:focusable="true"
+        android:background="?attr/selectableItemBackground"
+        app:layout_constraintEnd_toStartOf="@+id/preview_view"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/preview_share"
+        app:layout_constraintTop_toTopOf="@+id/preview_share"
+        app:cardElevation="@dimen/preview_card_elevation"
+        app:cardCornerRadius="@dimen/preview_card_radius"
+        app:cardBackgroundColor="@color/forth">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="@dimen/preview_image_icon_size"
+                android:layout_height="@dimen/preview_image_icon_size"
+                app:srcCompat="@drawable/ic_apply"
+                app:tint="@color/image_preview_card_text_color"
+                android:layout_marginBottom="@dimen/preview_card_text_margin_bottom"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Apply"
+                android:textSize="@dimen/preview_image_text_size"
+                android:textColor="@color/image_preview_card_text_color"
+                android:fontFamily="@font/raleway_medium"/>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/preview_view"
+        android:layout_width="@dimen/preview_image_card_size"
+        android:layout_height="@dimen/preview_image_card_size"
+        app:layout_constraintBottom_toBottomOf="@+id/preview_apply"
+        android:clickable="true"
+        android:focusable="true"
+        android:visibility="gone"
+        android:background="?attr/selectableItemBackground"
+        tools:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/preview_apply"
+        app:layout_constraintTop_toTopOf="@+id/preview_apply"
+        app:cardElevation="@dimen/preview_card_elevation"
+        app:cardCornerRadius="@dimen/preview_card_radius"
+        app:cardBackgroundColor="@color/color5">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="@dimen/preview_image_icon_size"
+                android:layout_height="@dimen/preview_image_icon_size"
+                app:srcCompat="@drawable/ic_view"
+                app:tint="@color/image_preview_card_text_color"
+                android:layout_marginBottom="@dimen/preview_card_text_margin_bottom"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="View"
+                android:textSize="@dimen/preview_image_text_size"
+                android:textColor="@color/image_preview_card_text_color"
+                android:fontFamily="@font/raleway_medium"/>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/preview_image"
+        android:layout_width="140dp"
+        android:layout_height="270dp"
+        android:layout_marginTop="12dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/preview_toolbar" />
+
+    <com.appodeal.ads.BannerView
+        android:id="@id/main_banner"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        tools:visibility="visible"
+        tools:layout_height="50dp"
+        tools:background="@color/teal_200"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="activity_background">#2d2d2d</color>
+    <color name="colorAccent">#ffc491</color>
+    <color name="colorPrimary">@color/colorAccent</color>
+    <color name="colorSecondary">#ffbb80</color>
+    <color name="colorSecondaryVariant">#ffbb80</color>
+    <color name="colorSurface">#121212</color>
+    <color name="desc_text">#a6ffffff</color>
+    <color name="nav_item_color">#fafafa</color>
+    <color name="notification_item_bg">#3f3f42</color>
+    <color name="row_icons_bg_color">#3f3f42</color>
+    <color name="textColor">#d9ffffff</color>
+    <color name="textColor2">#a6ffffff</color>
+    <color name="textColor3">#a6ffffff</color>
+    <color name="textColorPrimary">#fff</color>
+    <color name="textColorSecondary">#a6ffffff</color>
+
+    <color name="toolbar_text">#ffffff</color>
+    <color name="toolbar_color">#2d2d2d</color>
+</resources>

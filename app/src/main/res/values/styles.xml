@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WorldProverbs.NoActionBar.Fullscreen">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="CornerSize50Percent" parent="ShapeAppearanceOverlay">
+        <item name="cornerSize">50%</item>
+        <item name="cornerFamily">rounded</item>
+    </style>
+
+    <style name="CornerSize25Percent">
+        <item name="cornerSize">5%</item>
+        <item name="cornerFamily">rounded</item>
+    </style>
+
+    <style name="MainCardCornerSize">
+        <item name="cornerRadius">16dp</item>
+        <item name="cornerFamily">rounded</item>
+    </style>
+
+    <style name="CustomToolbar">
+        <item name="android:textColorSecondary">@color/status_bar_color</item>
+        <item name="android:fontFamily">@font/raleway_semi_bold</item>
+        <item name="colorControlHighlight">@color/colorAccent</item>
+    </style>
+</resources>

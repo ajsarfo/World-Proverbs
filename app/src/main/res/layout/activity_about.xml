@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="binding"
+            type="com.sarftec.worldproverbs.binding.AboutItem" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/about_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/toolbar_color"
+            android:elevation="0dp"
+            android:theme="@style/CustomToolbar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:navigationIcon="@drawable/back"
+            app:title="About" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            app:layout_constraintBottom_toTopOf="@+id/main_banner"
+            app:layout_constraintTop_toBottomOf="@+id/about_toolbar">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="15dp"
+                    android:paddingTop="10dp"
+                    android:paddingRight="15dp"
+                    android:paddingBottom="10dp">
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/app_icon"
+                        android:layout_width="96dp"
+                        android:layout_height="96dp"
+                        android:scaleType="centerCrop"
+                        app:image="@{binding.image}"
+                        tools:src="@tools:sample/backgrounds/scenic" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginStart="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:orientation="vertical">
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:text="@string/app_name"
+                            android:textColor="@color/textColor"
+                            android:textSize="15sp"
+                            android:textStyle="bold" />
+
+                        <androidx.appcompat.widget.AppCompatTextView
+                            android:id="@+id/about_version"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@{binding.appVersion}"
+                            android:textColor="@color/textColor"
+                            android:textSize="13sp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="15dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="15dp"
+                    android:paddingBottom="5dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/about_message_id"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/about_message"
+                        android:textColor="@color/textColor"
+                        android:textSize="13sp" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:id="@+id/about_support"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/about_message_id"
+                        android:layout_marginTop="15dp"
+                        android:text="@string/about_support"
+                        android:textColor="@color/textColor"
+                        android:textSize="13sp" />
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:orientation="vertical"
+                    android:padding="15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:padding="5dp">
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/shareImageViewId"
+                            android:layout_width="24dp"
+                            android:layout_height="24dp"
+                            android:background="?attr/actionBarItemBackground"
+                            android:src="@drawable/app_share" />
+
+                        <com.google.android.material.textview.MaterialTextView
+                            android:id="@+id/shareTextViewId"
+                            android:layout_width="match_parent"
+                            android:layout_height="36dp"
+                            android:layout_marginStart="28dp"
+                            android:layout_marginLeft="28dp"
+                            android:background="?attr/selectableItemBackground"
+                            android:gravity="start|center_vertical|center_horizontal|center"
+                            android:onClick="@{() -> binding.share()}"
+                            android:text="@string/about_screen_share"
+                            android:textAllCaps="false"
+                            android:textColor="@color/textColor"
+                            android:textSize="14sp"
+                            app:rippleColor="@color/colorAccent" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:padding="5dp">
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/emailImageViewId"
+                            android:layout_width="24dp"
+                            android:layout_height="24dp"
+                            android:background="?attr/actionBarItemBackground"
+                            android:src="@drawable/app_email" />
+
+                        <com.google.android.material.textview.MaterialTextView
+                            android:id="@+id/emailTextViewId"
+                            android:layout_width="match_parent"
+                            android:layout_height="36dp"
+                            android:layout_marginStart="28dp"
+                            android:layout_marginLeft="28dp"
+                            android:background="?attr/selectableItemBackground"
+                            android:gravity="start|center_vertical|center_horizontal|center"
+                            android:onClick="@{() -> binding.email()}"
+                            android:text="@string/about_screen_email"
+                            android:textAllCaps="false"
+                            android:textColor="@color/textColor"
+                            android:textSize="14sp"
+                            app:rippleColor="@color/colorAccent" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:padding="5dp">
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/rateImageViewId"
+                            android:layout_width="24dp"
+                            android:layout_height="24dp"
+                            android:background="?attr/actionBarItemBackground"
+                            android:src="@drawable/app_rate" />
+
+                        <com.google.android.material.textview.MaterialTextView
+                            android:id="@+id/rateTextViewId"
+
+                            android:layout_width="match_parent"
+                            android:layout_height="36dp"
+                            android:layout_marginStart="28dp"
+                            android:layout_marginLeft="28dp"
+                            android:background="?attr/selectableItemBackground"
+                            android:clickable="true"
+                            android:focusable="true"
+                            android:gravity="start|center_vertical|center_horizontal|center"
+                            android:onClick="@{() -> binding.rate()}"
+                            android:text="@string/about_screen_rate"
+                            android:textAllCaps="false"
+                            android:textColor="@color/textColor"
+                            android:textSize="14sp"
+                            app:rippleColor="@color/colorAccent" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+
+        <com.appodeal.ads.BannerView
+            android:id="@id/main_banner"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            tools:visibility="visible"
+            tools:layout_height="50dp"
+            tools:background="@color/teal_200"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

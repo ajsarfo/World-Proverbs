@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="binding"
+            type="com.sarftec.worldproverbs.binding.QuoteItemList" />
+    </data>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/list_card_layout_height"
+            android:layout_margin="16dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:onClick="@{() -> binding.onClick()}"
+            app:cardCornerRadius="6dp"
+            app:cardElevation="10dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:id="@+id/linearLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/bottom_layout_height"
+                    android:baselineAligned="false"
+                    android:orientation="horizontal"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent">
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:gravity="center"
+                        android:onClick="@{() -> binding.onImageChange() }">
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:layout_width="@dimen/bottom_layout_item_size"
+                            android:layout_height="@dimen/bottom_layout_item_size"
+                            app:srcCompat="@drawable/ic_background_change" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:gravity="center"
+                        android:onClick="@{() -> binding.onCopy()}">
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:layout_width="@dimen/bottom_layout_item_size"
+                            android:layout_height="@dimen/bottom_layout_item_size"
+                            app:srcCompat="@drawable/ic_copy"
+                            app:tint="#727272"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:gravity="center"
+                        android:onClick="@{() -> binding.onShare()}">
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:layout_width="@dimen/bottom_layout_item_size"
+                            android:layout_height="@dimen/bottom_layout_item_size"
+                            app:srcCompat="@drawable/ic_share"
+                            app:tint="#FF1744"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:gravity="center"
+                        android:onClick="@{() -> binding.onCapture.invoke()}">
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:layout_width="@dimen/bottom_layout_item_size"
+                            android:layout_height="@dimen/bottom_layout_item_size"
+                            app:srcCompat="@drawable/ic_download" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="?attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:gravity="center"
+                        android:onClick="@{() -> binding.onFavorite()}">
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:layout_width="@dimen/bottom_layout_item_size"
+                            android:layout_height="@dimen/bottom_layout_item_size"
+                            app:image="@{binding.favoriteIcon}"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <FrameLayout
+                    android:id="@+id/capture_frame"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:text="Sometimes taking the red pill makes you feel better. Life is what happens when you are busy making other plans. Make hay whiles the sun shines">
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/capture_frame_image"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:scaleType="centerCrop"
+                        app:image="@{binding.image}"
+                        tools:srcCompat="@tools:sample/backgrounds/scenic"/>
+
+                    <View
+                        android:id="@+id/quote_image_overlay"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@color/color_image_scrim" />
+
+                    <LinearLayout
+                        android:id="@+id/text_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:padding="10dp">
+
+                        <com.google.android.material.textview.MaterialTextView
+                            android:id="@+id/message"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ellipsize="end"
+                            android:fontFamily="@font/raleway_semi_bold"
+                            android:gravity="center"
+                            android:shadowColor="@color/black_overlay"
+                            android:shadowDx="4"
+                            android:shadowDy="4"
+                            android:shadowRadius="4"
+                            android:lineSpacingExtra="0.5sp"
+                            android:maxLines="13"
+                            android:text="@{binding.message}"
+                            android:textColor="@color/white"
+                            android:textSize="18sp"
+                            tools:text="Sometimes taking the red pill makes you feel better. Life is what happens when you are busy making other plans. Make hay whiles the sun shines" />
+
+                    </LinearLayout>
+                </FrameLayout>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

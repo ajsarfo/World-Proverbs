@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="activity_background">#fff</color>
+    <color name="desc_text">#727272</color>
+
+    <color name="colorAccent">#ff6011</color>
+    <color name="colorAccentLight">#966</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorOnboardingIndicatorInactive">#72bcf7</color>
+    <color name="colorPrimary">@color/colorAccent</color>
+    <color name="colorPrimaryDark">#252525</color>
+    <color name="colorSecondary">#ff6011</color>
+    <color name="colorSecondaryVariant">#ee4f00</color>
+    <color name="colorSurface">#ffffff</color>
+    <color name="textColor">#252525</color>
+    <color name="textColor2">#434343</color>
+    <color name="textColor3">#999999</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="textColorSecondary">#212121</color>
+
+    <color name="toolbar_text">#212121</color>
+    <color name="toolbar_color">#ffffff</color>
+
+    <color name="nav_drawer_color">#fafafa</color>
+    <color name="nav_item_color">#202020</color>
+    <color name="not_action_color">#ea554f</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="notification_item_bg">#ededed</color>
+
+    <color name="row_icons_bg_color">#f8f8f8</color>
+
+    <color name="color_image_scrim">#66000000</color>
+
+    <color name="color_loading">#FF6D00</color>
+
+    <color name="first">#ff85a7</color>
+    <color name="second">#635aa6</color>
+    <color name="third">#7beced</color>
+
+    <color name="forth">#b1dc76</color>
+    <color name="fifth">#bd84d6</color>
+    <color name="sixth">#9cb4f0</color>
+
+    <color name="nav_menu_item_grey">#828282</color>
+    <color name="main_background">#fff</color>
+
+    <color name="quote_bottom_layout_card_color">#212121</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="ripple_white">#96ffffff</color>
+
+    <color name="status_bar_color">#252525</color>
+
+    <color name="color11">#8aae94</color>
+    <color name="color12">#b06a94</color>
+    <color name="color13">#62ccc2</color>
+    <color name="color14">#c49f58</color>
+    <color name="color15">#c46175</color>
+    <color name="color16">#8fa680</color>
+    <color name="color17">#a18ebb</color>
+    <color name="color18">#eaa885</color>
+    <color name="color20">#90a383</color>
+    <color name="color21">#8d9ed2</color>
+    <color name="color22">#eba397</color>
+    <color name="color23">#68c5d1</color>
+    <color name="color24">#fb7069</color>
+    <color name="color25">#79a779</color>
+    <color name="color26">#fc7dc5</color>
+    <color name="color27">#f4a14e</color>
+    <color name="color28">#c783ac</color>
+    <color name="color3">#feed62</color>
+    <color name="color4">#a9d159</color>
+    <color name="color5">#55c4d0</color>
+
+    <color name="reader_text_color">#999999</color>
+    <color name="reader_text_highlightcolor">#ddd</color>
+
+    <color name="image_preview_card_text_color">#4B346B</color>
+</resources>

@@ -1,0 +1,373 @@
+{
+  "title": "Top",
+  "quotes": [
+    {
+      "message": "A tree is known by its fruit.",
+      "name": "Southern African Proverb"
+    },
+    {
+      "message": "The old horse in the stable still yearns to run.",
+      "name": "Asian Proverb"
+    },
+    {
+      "message": "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime.",
+      "name": "Asian Proverb"
+    },
+    {
+      "message": "A monkey in silk is a monkey no less.",
+      "name": "American Proverb"
+    },
+    {
+      "message": "Early to bed and early to rise, makes a man healthy, wealthy and wise.",
+      "name": "English Proverb"
+    },
+    {
+      "message": "Laugh and the world laughs with you, weep and you weep alone.",
+      "name": "English Proverb"
+    },
+    {
+      "message": "An army of sheep led by a lion would defeat an army of lions led by a sheep",
+      "name": "Arabic Proverb"
+    },
+    {
+      "message": "Even a small star shines in the darkness.",
+      "name": "Finnish Proverb"
+    },
+    {
+      "message": "After the game, the king and pawn go into the same box.",
+      "name": "Italian Proverb"
+    },
+    {
+      "message": "God could not be everywhere and therefore he made mothers.",
+      "name": "Jewish Proverb"
+    },
+    {
+      "message": "Shared joy is a double joy; shared sorrow is half a sorrow.",
+      "name": "Swedish Proverb"
+    },
+    {
+      "message": "Words should be weighed, not counted.",
+      "name": "Yiddish Proverb"
+    },
+    {
+      "message": "Do good and throw it in the sea.",
+      "name": "Arabic Proverb"
+    },
+    {
+      "message": "Where love reigns, the impossible may be attained.",
+      "name": "Indian Proverb"
+    },
+    {
+      "message": "Truth is more valuable if it takes you a few years to find it.",
+      "name": "French Proverb"
+    },
+    {
+      "message": "There is no shame in not knowing; the shame lies in not finding out.",
+      "name": "Russian Proverb"
+    },
+    {
+      "message": "A loose tooth will not rest until it’s pulled out.",
+      "name": "African Proverb"
+    },
+    {
+      "message": "The path is made by walking.",
+      "name": "African Proverb"
+    },
+    {
+      "message": "Drop by drop you break the rock",
+      "name": "Italian Proverb"
+    },
+    {
+      "message": "The tree often hides the forest",
+      "name": "French Proverb"
+    },
+    {
+      "message": "Do not push the river, it will flow itself",
+      "name": "Polish Proverb"
+    },
+    {
+      "message": "Measure a thousand times and cut once.",
+      "name": "Turkish Proverb"
+    },
+    {
+      "message": "Whoever gossips to you will gossip about you.",
+      "name": "Spanish Proverb"
+    },
+    {
+      "message": "Don’t sail out farther than you can row back.",
+      "name": "Danish Proverb"
+    },
+    {
+      "message": "If you take big paces, you leave big spaces.",
+      "name": "Burmese Proverb"
+    },
+    {
+      "message": "Before you score, you first must have a goal.",
+      "name": "Greek Proverb"
+    },
+    {
+      "message": "Good advice is often annoying, bad advice never is.",
+      "name": "French Proverb"
+    },
+    {
+      "message": "Instruction in youth is like engraving in stone",
+      "name": "Moroccan Proverb"
+    },
+    {
+      "message": "A beautiful thing is never perfect.",
+      "name": "Egyptian Proverb"
+    },
+    {
+      "message": "Turn your face toward the sun and the shadows fall behind you.",
+      "name": "Maori Proverb"
+    },
+    {
+      "message": "Better little than too little",
+      "name": "Cameroonian Proverb"
+    },
+    {
+      "message": "Tell me who your friends are, so I can tell you who you are",
+      "name": "Bulgarian Proverb"
+    },
+    {
+      "message": "Don’t count your chickens before they’re hatched.",
+      "name": "Australian Proverb"
+    },
+    {
+      "message": "To be willing is only half the task.",
+      "name": "Armenian Proverb"
+    },
+    {
+      "message": "When the sun rises, it rises for everyone.",
+      "name": "Cuban Proverb"
+    },
+    {
+      "message": "No man can paddle two canoes at the same time.",
+      "name": "Bantu Proverb"
+    },
+    {
+      "message": "Age is honorable and youth is noble.",
+      "name": "Irish Proverb"
+    },
+    {
+      "message": "The tree with most leaves will not necessarily produce juicy fruit.",
+      "name": "Brazilian Proverb"
+    },
+    {
+      "message": "A mother understands what a child does not say",
+      "name": "Yiddish Proverb"
+    },
+    {
+      "message": "A bad worker blames his tools.",
+      "name": "Australian Proverb"
+    },
+    {
+      "message": "If you want to go fast, go alone. If you want to go far, go together.",
+      "name": "African Proverb"
+    },
+    {
+      "message": "Fall seven times, stand up eight.",
+      "name": "Japanese Proverb"
+    },
+    {
+      "message": "Shared joy is a double joy; shared sorrow is half a sorrow.",
+      "name": "Swedish Proverb"
+    },
+    {
+      "message": "Words should be weighed, not counted.",
+      "name": "Yiddish Proverb"
+    },
+    {
+      "message": "If you can’t live longer, live deeper.",
+      "name": "Italian Proverb"
+    },
+    {
+      "message": "Do good and throw it in the sea.",
+      "name": "Arab Proverb"
+    },
+    {
+      "message": "Where love reigns, the impossible may be attained.",
+      "name": "Indian Proverb"
+    },
+    {
+      "message": "It’s better to light a candle than curse the darkness.",
+      "name": "Chinese Proverb"
+    },
+    {
+      "message": "A man who uses force is afraid of reasoning.",
+      "name": "Kenyan Proverb"
+    },
+    {
+      "message": "Still waters run deep.",
+      "name": "Latin Proverb"
+    },
+    {
+      "message": "He who does not travel, does not know the value of men.",
+      "name": "Moorish Proverb"
+    },
+    {
+      "message": "The night rinses what the day has soaped.",
+      "name": "Swiss Proverb"
+    },
+    {
+      "message": "Measure a thousand times and cut once.",
+      "name": "Turkish Proverb"
+    },
+    {
+      "message": "A spoon does not know the taste of soup, nor a learned fool the taste of wisdom.",
+      "name": "Welsh Proverb"
+    },
+    {
+      "message": "The most beautiful fig may contain a worm.",
+      "name": "Zulu Proverb"
+    },
+    {
+      "message": "Change yourself and fortune will change.",
+      "name": "Portuguese Proverb"
+    },
+    {
+      "message": "In love, there is always one who kisses and one who offers the cheek.",
+      "name": "French Proverb"
+    },
+    {
+      "message": "Evil enters like a needle and spreads like an oak tree.",
+      "name": "Ethiopian Proverb"
+    },
+    {
+      "message": "Who begins too much accomplishes little.",
+      "name": "German Proverb"
+    },
+    {
+      "message": "Whoever gossips to you will gossip about you.",
+      "name": "Spanish Proverb"
+    },
+    {
+      "message": "Beauty lies in the eye of the beholder.",
+      "name": "English Proverb"
+    },
+    {
+      "message": "Don’t sail out farther than you can row back.",
+      "name": "Danish Proverb"
+    },
+    {
+      "message": "There is no shame in not knowing; the shame lies in not finding out.",
+      "name": "Russian Proverb"
+    },
+    {
+      "message": "Age is honorable and youth is noble.",
+      "name": "Irish Proverb"
+    },
+    {
+      "message": "In a battle between elephants, the ants get squashed.",
+      "name": "Thai Proverb"
+    },
+    {
+      "message": "If you take big paces, you leave big spaces.",
+      "name": "Burmese Proverb"
+    },
+    {
+      "message": "Before you score, you first must have a goal.",
+      "name": "Greek Proverb"
+    },
+    {
+      "message": "Good advice is often annoying, bad advice never is.",
+      "name": "French Proverb"
+    },
+    {
+      "message": "Give a man a fish, and you feed him for a day. Teach a man to fish, and you feed him for a lifetime.",
+      "name": "Chinese Proverb"
+    },
+    {
+      "message": "Do not rejoice at my grief, for when mine is old, yours will be new.",
+      "name": "Spanish Proverb"
+    },
+    {
+      "message": "What you see in yourself is what you see in the world.",
+      "name": "Afghan Proverb"
+    },
+    {
+      "message": "It takes a whole village to raise a child.",
+      "name": "African Proverb"
+    },
+    {
+      "message": "Examine what is said, not who speaks.",
+      "name": "Arab Proverb"
+    },
+    {
+      "message": "Two wrongs don’t make a right.",
+      "name": "English Proverb"
+    },
+    {
+      "message": "A large chair does not make a king.",
+      "name": "Sudanese Proverb"
+    },
+    {
+      "message": "Instruction in youth is like engraving in stone.",
+      "name": "Moroccan Proverb"
+    },
+    {
+      "message": "Deep doubts, deep wisdom; small doubts, small wisdom.",
+      "name": "Chinese Proverb"
+    },
+    {
+      "message": "A man does not seek his luck; luck seeks its man.",
+      "name": "Turkish Proverb"
+    },
+    {
+      "message": "A teacher is better than two books.",
+      "name": "German Proverb"
+    },
+    {
+      "message": "A beautiful thing is never perfect.",
+      "name": "Egyptian Proverb"
+    },
+    {
+      "message": "The reputation of a thousand years may be determined by the conduct of one hour.",
+      "name": "Japanese Proverb"
+    },
+    {
+      "message": "Character is always corrupted by prosperity.",
+      "name": "Icelandic Proverb"
+    },
+    {
+      "message": "A fault confessed is half redressed.",
+      "name": "Zulu Proverb"
+    },
+    {
+      "message": "To be willing is only half the task.",
+      "name": "Armenian Proverb"
+    },
+    {
+      "message": "Everyone is kneaded out of the same dough, but not baked in the same oven.",
+      "name": "Yiddish Proverb"
+    },
+    {
+      "message": "The heart that loves is always young.",
+      "name": "Greek Proverb"
+    },
+    {
+      "message": "He who always thinks it is too soon is sure to come too late.",
+      "name": "German Proverb"
+    },
+    {
+      "message": "Turn your face to the sun and the shadows will fall behind you.",
+      "name": "New Zealander Proverb"
+    },
+    {
+      "message": "When the sun rises, it rises for everyone.",
+      "name": "Cuban Proverb"
+    },
+    {
+      "message": "No man can paddle two canoes at the same time.",
+      "name": "Bantu Proverb"
+    },
+    {
+      "message": "If you go to a donkey’s house, don’t talk about ears.",
+      "name": "Jamaican Proverb"
+    },
+    {
+      "message": "Speak the truth, but leave immediately after.",
+      "name": "Slovenian Proverb"
+    }
+  ]
+}
